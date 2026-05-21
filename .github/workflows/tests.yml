@@ -22,3 +22,5 @@ jobs:
           pip install -r requirements-dev.txt
       - name: Run test suite (offline, deterministic)
         run: pytest
+        env:
+          BIBLIO_CHECK_MAILTO: ${[ secrets.BIBLIO_CHECK_MAILTO }}
