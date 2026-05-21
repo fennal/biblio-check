@@ -1,0 +1,13 @@
+References
+
+Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, L., & Polosukhin, I. (2017). Attention is all you need. Advances in Neural Information Processing Systems, 30, 5998-6008.
+
+Jinek, M., Chylinski, K., Fonfara, I., Hauer, M., Doudna, J. A., & Charpentier, E. (2012). A programmable dual-RNA-guided DNA endonuclease in adaptive bacterial immunity. Science, 337(6096), 816-821. https://doi.org/10.1126/science.1225829
+
+LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. Nature, 521(7553), 436-444. https://doi.org/10.1038/nature14539
+
+Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. Science, 185(4157), 1124-1131.
+
+Smith, P. Q., Wright, A. B., & Johnson, M. (2019). Quantum entanglement in neural networks: A unified framework for cognitive emergence. Journal of Cognitive Neuroquantumology, 47(3), 211-238. https://doi.org/10.1098/jcnq.2019.1138
+
+Jinek, M., Doudna, J. A., & Charpentier, E. (2014). A programmable dual-RNA-guided DNA endonuclease in adaptive bacterial immunity. Science, 340(6132), 1077-1086. https://doi.org/10.1126/science.1225800

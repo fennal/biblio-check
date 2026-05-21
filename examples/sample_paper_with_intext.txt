@@ -1,0 +1,23 @@
+Introduction
+
+The transformer architecture has reshaped modern NLP. The seminal work introducing self-attention was Vaswani et al. (2017), and subsequent surveys built on this foundation (LeCun et al., 2015). The framework for human judgment under uncertainty (Tversky & Kahneman, 1974) has been foundational in behavioral economics. A separate line of work explored CRISPR-Cas systems, beginning with the dual-RNA-guided endonuclease characterization (Jinek et al., 2012).
+
+Recent work by Patel and Sharma (2022) attempted to extend the transformer to multimodal inputs. However, see also the contrasting view expressed by Smith et al. (2019), which we engage with at length below.
+
+Methods
+
+Following Vaswani et al. (2017), we use multi-head attention with eight heads.
+
+References
+
+Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, L., & Polosukhin, I. (2017). Attention is all you need. Advances in Neural Information Processing Systems, 30, 5998-6008.
+
+Jinek, M., Chylinski, K., Fonfara, I., Hauer, M., Doudna, J. A., & Charpentier, E. (2012). A programmable dual-RNA-guided DNA endonuclease in adaptive bacterial immunity. Science, 337(6096), 816-821. https://doi.org/10.1126/science.1225829
+
+LeCun, Y., Bengio, Y., & Hinton, G. (2015). Deep learning. Nature, 521(7553), 436-444. https://doi.org/10.1038/nature14539
+
+Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. Science, 185(4157), 1124-1131.
+
+Smith, P. Q., Wright, A. B., & Johnson, M. (2019). Quantum entanglement in neural networks: A unified framework for cognitive emergence. Journal of Cognitive Neuroquantumology, 47(3), 211-238. https://doi.org/10.1098/jcnq.2019.1138
+
+Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning. MIT Press.

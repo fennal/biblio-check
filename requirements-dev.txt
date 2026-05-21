@@ -1,0 +1,3 @@
+# Development / test dependencies (not needed to run the skill).
+-r requirements.txt
+pytest>=7.0

@@ -1,0 +1,9 @@
+rapidfuzz>=3.0
+pdfplumber>=0.10
+python-docx>=1.0
+# bibtexparser v2 has a different API; pin to v1 line.
+bibtexparser>=1.4,<2.0
+rispy>=0.9
+# scholarly is optional; only required if --use-scholarly is used.
+# Pin a known-working version since the library is fragile against Google changes.
+# scholarly>=1.7
