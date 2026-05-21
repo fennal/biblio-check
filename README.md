@@ -1,3 +1,5 @@
+![tests](https://github.com/fennal/biblio-check/actions/workflows/tests.yml/badge.svg)
+
 # biblio-check
 
 Verify, correct, and reformat academic bibliographies. It treats citation
